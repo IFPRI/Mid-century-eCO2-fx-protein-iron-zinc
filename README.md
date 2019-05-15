@@ -9,8 +9,10 @@ Beach, RH; TB Sulser; A Crimmins; N Cenacchi; J Cole; NK Fukagawa; D Mason-D’C
 _will be updated with full citation once published_
 
 Files:
-
-MapsReduxForGitHub.zip
-Figure4.xlsx
+Table 1 - Global and Regional Nutrient Avail RCP8p5 wCO2.xlsx
+Figures 2 and 3 - mapdata - Net Impacts on Nutrient Avail Loladze-Myers.zip
+Figure 2 - bar charts - Net Impacts on Nutrient Avail Loladze.xlsx
+Figure 3 - bar charts - Net Impacts on Nutrient Avail Myers.xlsx
+Figure 4 - bar charts - Total Estimated Impacts on Nutrient Avail.xlsx
 
 
