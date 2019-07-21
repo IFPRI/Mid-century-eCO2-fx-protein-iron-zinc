@@ -2,11 +2,9 @@
 
 Online data repository for:
 
-Manuscript under review, please do not cite or use without author consent
+Robert H Beach, Timothy B Sulser, Allison Crimmins, Nicola Cenacchi, Jefferson Cole, Naomi K Fukagawa, Daniel Mason-D'Croz, Samuel Myers, Marcus C Sarofim, Matthew Smith, Lewis H Ziska. 2019. Combining the effects of increased atmospheric carbon dioxide on protein, iron, and zinc availability and projected climate change on global diets: a modelling study. The Lancet Planetary Health 3(7): e307-e317. 
 
-Beach, RH; TB Sulser; A Crimmins; N Cenacchi; J Cole; NK Fukagawa; D Mason-D’Croz; S Myers; MC Sarofim; M Smith; and LH Ziska. A modeling approach combining elevated atmospheric CO2 effects on protein, iron and zinc availability with projected climate change impacts on global diets.
-
-_to be updated with full citation once published_
+https://doi.org/10.1016/S2542-5196(19)30094-4
 
 Files: 
 + Table 1 - Global and Regional Nutrient Avail RCP8p5 wCO2.xlsx; 
