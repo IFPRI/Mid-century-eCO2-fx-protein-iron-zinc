@@ -14,4 +14,4 @@ Files:
 + Figure 4 - bar charts - Total Estimated Impacts on Nutrient Avail.xlsx; 
 + Appendix 5 - tables - Results w Lower Upper Bounds.xlsx
 
-
+Update in [insert month] to align all included materials with errata (published at [insert doi link])
